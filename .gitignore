@@ -1,0 +1,7 @@
+*.log
+*.dmp
+*.txt
+/Saved
+*.ini
+/Saved/Config
+/Saved/Config/Windows
